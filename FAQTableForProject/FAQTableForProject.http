@@ -1,0 +1,6 @@
+@FAQTableForProject_HostAddress = http://localhost:5265
+
+GET {{FAQTableForProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
